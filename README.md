@@ -3,5 +3,20 @@ This was a school assignment for Non-procedural Programming course. It's written
 
 ## Usage
 
-```parovanie(+N, -Matching)```
+```
+parovanie(+N, -Matching)
+```
+where N is a number of bipartite graph from `testData.pl`
+
+or
+
+```
+parovanie(+A, +B, +E, -Matching)
+```
+where the input graph is G=(V,E) and V=A∪B
+
+
+
+
+
 
